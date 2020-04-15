@@ -1,0 +1,90 @@
+
+html,body{
+  height: 100%;
+}
+html{
+     background-image: url(fundo.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+body {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: #1f1f1f;
+  padding: 15px;
+}
+h1{
+  margin-top: 0;
+}
+p{
+  margin-left:20px;
+  text-align: justify;
+  font-family: monospace;
+  font-style: oblique;
+  font-size: 20px;
+  color: #faffff;
+
+}
+a{
+  color: #faffff;
+}
+
+#yo {
+  width: 250px;
+  float: right;
+  border-radius: 20%;
+  border-style: outset;
+  border-width: 6px;
+  border-color: #ffed75;
+  margin-left: 3%;
+}
+#titulo {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+  color: #faffff;
+}
+#listalegal {
+  text-align: left;
+  font-family: monospace;
+  font-size: 25px;
+  color: #faffff;
+}
+li{
+  margin-top: 10px;
+  font-family: monospace;
+  font-size: 18px;
+  color: #faffff;
+  width: 550px;
+}
+#garlicman {
+  font-family: monospace;
+  font-size: 30px;
+  color: #ffd500;
+}
+#wolf {
+  font-family: monospace;
+  font-size: 30px;
+  color: #df40ff;
+}
+#jooj{
+  font-size: 25px;
+  width: 550px;
+  color: #faffff;
+}
+#mains {
+  float: right;
+  width: 300px;
+  margin-left: 50px;
+}
+#gatito{
+  float: left;
+  margin-right: 40px;
+  width: 200px;
+  border-style: dashed;
+  border-color:#ffed75;
+  border-width: 3px;
+}
